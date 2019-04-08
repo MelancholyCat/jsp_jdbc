@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jsp_jdbc_ex6_1">
+    <output-path>$PROJECT_DIR$/out/artifacts/jsp_jdbc_ex6_1</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="jsp_jdbc_ex6_1/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jsp_jdbc_ex6_1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
